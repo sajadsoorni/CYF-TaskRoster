@@ -53,5 +53,5 @@ This app is built for:
 ## 🗺️ App Development Sprint Sequence (Visual)
 
 
-![App-Development-Sprint-Sequence](https://github.com/user-attachments/assets/60621c01-ef75-4671-997c-fcfc2de06c01)
+![App-Development-Sprint-Sequence](https://github.com/user-attachments/assets/bc519902-b2c3-44d7-93d4-50032c1f75c5)
 
