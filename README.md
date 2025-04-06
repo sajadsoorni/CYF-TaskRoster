@@ -52,5 +52,6 @@ This app is built for:
 
 ## 🗺️ App Development Sprint Sequence (Visual)
 
-![🧠 Sprint 1 – Planning - visual selection (2)](https://github.com/user-attachments/assets/1a6573ae-611d-4fb1-90bd-dc02e20c09cd)
+
+![App-Development-Sprint-Sequence](https://github.com/user-attachments/assets/60621c01-ef75-4671-997c-fcfc2de06c01)
 
