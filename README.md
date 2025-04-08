@@ -1,29 +1,57 @@
-## 📌 Project Purpose: CYF-TaskRoster
+# CYF-TaskRoster 🧹🍽️
 
-### ✏️ What does the app do?
-
-This app allows trainees to sign up for specific tasks, such as bringing food, buying supplies, or taking responsibility for cleaning duties, helping us stay organised and share responsibilities fairly during our Saturdays and weekly workshops.
-
-For example, this week, persons A, B, and C might sign up to bring food, while W, X, and Y take responsibility for managing the cleaning—both after lunch and at the end of the day.
-
-Of course, everyone helps out, but having three designated people makes sure the tasks are managed and nothing gets missed.
+The CYF-TaskRoster is a task management web app designed to help CodeYourFuture trainees and volunteers fairly share responsibilities like food contributions and cleaning duties during in-person Saturday sessions.
 
 ---
 
-### 🧑‍🤝‍👩 Who is the app for?
+## 🧠 Purpose
 
-This app is designed primarily for **CodeYourFuture trainees**, but **volunteers and mentors** can also use it to register for food and cleaning tasks.
-
-It’s meant for anyone involved in our in-person sessions who wants to take part in keeping the day running smoothly—whether that means bringing food, helping with cleanup, or just supporting the team spirit.
+The purpose of this app is to:
+- Keep track of who is bringing food or cleaning
+- Distribute responsibilities fairly
+- Reduce confusion and improve teamwork
+- Make Saturdays smoother and more organised
 
 ---
 
-### 💡 Why is it helpful?
+## 👤 Who Is It For?
 
-The CYF-TaskRoster app is helpful because it:
+This app is built for:
+- **Trainees**: To sign up for food or cleaning duties
+- **Mentors & Volunteers**: To join in and support the team
 
-- ✅ **Keeps the rota fair and clear** – everyone gets a chance to contribute without overloading the same people.
-- 👀 **Shows who is responsible for what** – so there’s no guessing or awkward moments.
-- ⏳ **Reduces last-minute confusion** – tasks are planned in advance, which means less stress on the day.
-- 🤝 **Encourages teamwork and accountability** – when people commit to a task, they’re more likely to follow through.
-- 🍽️ **Helps make Saturdays smoother and more enjoyable** – from food planning to end-of-day cleanup, everything runs better when it's organised!
+---
+
+## 🚀 Features (MVP)
+
+- View a list of rota tasks
+- Sign up for a task
+- Filter tasks by category (e.g., food or cleaning)
+- Admins can edit or delete tasks
+
+---
+
+## 🔐 Roles & Permissions
+
+| Role     | Add Task | Edit Task | Delete Task | View Tasks |
+|----------|----------|-----------|-------------|------------|
+| Trainee  | ✅       | ❌        | ❌          | ✅         |
+| Admin    | ✅       | ✅        | ✅          | ✅         |
+
+---
+
+## 🗃️ Data Structure (Backend)
+
+📦 For MVP:
+- **Local JSON file** is used for simplicity and offline support
+
+🌐 In future:
+- **MongoDB** will be introduced to support authentication and deployment
+
+---
+
+## 🗺️ App Development Sprint Sequence (Visual)
+
+
+![App-Development-Sprint-Sequence](https://github.com/user-attachments/assets/bc519902-b2c3-44d7-93d4-50032c1f75c5)
+
