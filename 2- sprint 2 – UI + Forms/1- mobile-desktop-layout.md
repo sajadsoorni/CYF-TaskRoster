@@ -18,3 +18,7 @@ Lay the foundation for responsive design by deciding how the rota interface shou
 ### 📈 Outcome:
 
 A clear layout strategy that will guide wireframes, styling, and component placement in later steps. This ensures the app remains user-friendly and functional across all screen sizes.
+
+---
+
+📝 [View in Google Docs](https://docs.google.com/document/d/15OnS2r6VIIR5vgIpzsdZo-phSqH8IcWlQscQ7mPYnos/edit?usp=sharing)
